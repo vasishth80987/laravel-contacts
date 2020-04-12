@@ -1,4 +1,4 @@
-# user-activity-tracking
+# Laravel Contacts
 Simple social networking module built for laravel. Include friend requests and invitation based user registration.
 
 ## Installation
