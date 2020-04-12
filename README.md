@@ -13,10 +13,17 @@ php artisan vendor:publish --provider="Vsynch\Contacts\ContactsServiceProvider"
 ```
 
 ## Usage
-Add trait 'Contactable' to your models.
+Add trait 'Contactable' to your user models.
 ```
 class User extends Authenticatable
 {
     use Contactable;
+}
+```
+Add trait 'CheckInvitations' to your Register Controller.
+```
+class RegisterController extends Controller
+{
+    use RegistersUsers,CheckInvitations;
 }
 ```
