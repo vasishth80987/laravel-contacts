@@ -13,7 +13,7 @@ php artisan vendor:publish --provider="Vsynch\Contacts\ContactsServiceProvider"
 ```
 
 ## Usage
-Add trait 'Contractable' to your models.
+Add trait 'Contactable' to your models.
 ```
 class User extends Authenticatable
 {
