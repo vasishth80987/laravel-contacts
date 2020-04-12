@@ -1,5 +1,5 @@
 # Laravel Contacts
-Simple social networking module built for laravel. Include friend requests and invitation based user registration.
+Simple social networking module built for laravel. Includes friend requests and invitation based user registration.
 
 ## Installation
 ```
