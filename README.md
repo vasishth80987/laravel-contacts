@@ -1,5 +1,5 @@
 # user-activity-tracking
-User tracking and Activity logging trait package for laravel
+Simple social networking module built for laravel. Include friend requests and invitation based user registration.
 
 ## Installation
 ```
