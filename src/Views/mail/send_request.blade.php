@@ -1,0 +1,1 @@
+<p>You have recieved an invitation to join RBN contractors.</p>

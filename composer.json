@@ -1,0 +1,29 @@
+{
+    "name": "vsynch/contacts",
+    "description": "Add User Functionality to add contacts in laravel systems",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Va Sh",
+            "email": "vasishth987@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vsynch\\Contacts\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "dont-discover": [],
+            "providers": [
+                "Vsynch\\Contacts\\ContactsServiceProvider"
+            ],
+            "aliases": {
+                "Contacts": "Vsynch\\Contacts\\Facades\\Contacts"
+            }
+        }
+    }
+    
+}
