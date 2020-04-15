@@ -3,7 +3,7 @@ Simple social networking module built for laravel. Includes friend requests and 
 
 ## Installation
 ```
-composer require vsynch/laravel-contacts
+composer require vsynch/contacts
 ```
 
 Publish package files
