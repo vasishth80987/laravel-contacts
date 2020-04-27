@@ -6,7 +6,7 @@
  * Time: 5:25 PM
  */
 
-namespace Vsynch\Contacts\Controllers;
+namespace Vsynch\Contacts\Controllers\Api;
 
 use App\Http\Controllers\Controller;
 use App\User;
