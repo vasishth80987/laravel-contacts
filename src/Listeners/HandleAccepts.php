@@ -5,7 +5,7 @@
  * Date: 22/03/20
  * Time: 7:03 AM
  */
-namespace App\Listeners;
+namespace Vsynch\Contacts\Listeners;
 
 
 use App\Contract;
