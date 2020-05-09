@@ -5,7 +5,7 @@
  * Date: 22/03/20
  * Time: 9:21 AM
  */
-namespace App\Listeners;
+namespace Vsynch\Contacts\Listeners;
 
 
 use Vsynch\Contacts\Events\ContactInvited;
